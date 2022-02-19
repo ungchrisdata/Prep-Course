@@ -227,8 +227,8 @@ function doWhile(numero) {
   let contador = 0;
 
   do {
-    contador++;
     n += 5
+    contador++;
   } while ( contador < 8);
 
   return n;
