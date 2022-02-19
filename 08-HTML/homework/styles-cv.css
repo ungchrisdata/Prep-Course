@@ -1,0 +1,30 @@
+* {
+  background-image:  url('pattern2.svg');
+  color: #fff;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  
+}
+
+h2 {
+  text-align: center;
+}
+
+.foto {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+div{
+  width: 600px;
+}
+
+img {
+
+  width: 50%;
+}

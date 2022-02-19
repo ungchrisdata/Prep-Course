@@ -1,0 +1,43 @@
+*{
+  background-image: url('pattern.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  color: #eee;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #eee;
+}
+
+h1 {
+  color: skyblue;
+}
+
+img {
+  width: 400px;
+}
+
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: rgb(253, 223, 223);
+  padding: 50px;
+  border: 10px solid red;
+}
+
+#spanId {
+  font-size: 18px;
+}
+
